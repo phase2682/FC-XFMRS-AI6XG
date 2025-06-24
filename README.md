@@ -6,3 +6,5 @@ For transformer loss measurements use xfrmr loss calcs.xslx
 To calculate core loss from toroid and transfomer characteristics use ferrite calcs git1.xlsx    
   Toroid parameters for FT50-43, 2643625002, and FT240-43 already loaded for HF Ham Bands                            
   Input # of turns (N), # of cores, frequency
+
+  The Transformer Efficiency presentation given at the Pacificon 2024 Antenna Seminar is also provided.
